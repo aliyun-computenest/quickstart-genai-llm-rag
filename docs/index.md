@@ -1,4 +1,4 @@
-# Quick Building a RAG Service on Compute Nest with LLM on PAI-EAS and AnalyticDB for PostgreSQL 
+# Quick Building a RAG Service on Compute Nest with LLM on PAI-EAS and AnalyticDB for PostgreSQL - GenAI-LLM-RAG
 ![Alt text](image.png)
 ## Introduction
 This guide will walk you through the process of creating a Retrieval-Augmented Generation (RAG) service using Compute Nest with Large Language Models (LLM) on Alibaba Cloud's Platform for AI – Elastic Algorithm Service (PAI-EAS), AnalyticDB for PostgreSQL as the vector store, Gradio for the web UI, and Langchain for orchestration.
